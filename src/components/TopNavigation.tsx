@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-const myLogo = new URL("../assets/myPhoto.png", import.meta.url).href;
+const myLogo = new URL("../assets/myLogo.png", import.meta.url).href;
 
 const NAV_ITEMS = ["home", "service", "skills", "projects"];
 
