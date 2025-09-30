@@ -1,5 +1,5 @@
 import { PhoneIcon } from "lucide-react";
-import myPhoto from "../../../myPhoto.png";
+import myPhoto from "../assets/myPhoto.png";
 import { FaLinkedin, FaGithub, FaTelegram, FaEnvelope } from "react-icons/fa";
 import myResume from "../assets/myresume.pdf";
 

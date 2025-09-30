@@ -111,7 +111,7 @@ export const ServiceSection: React.FC = () => {
                   ))}
                 </ul>
 
-                <div className="mt-6 flex hidden justify-end">
+                <div className="mt-6 hidden justify-end">
                   <button className="text-sm  text-gray-300 hover:text-white flex items-center gap-2 transition">
                     Read more →
                   </button>
