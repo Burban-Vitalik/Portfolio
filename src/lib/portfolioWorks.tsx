@@ -6,9 +6,11 @@ import CarProjectImg from "../assets/portfolio/car.png";
 import HeyFriendProjectImg from "../assets/portfolio/heyFriends.png";
 import AdventureProjectImg from "../assets/portfolio/adventure.png";
 
-import VitalikImg from "../assets/people/vitalik.jpg";
-import NazarImg from "../assets/people/nazar.jpg";
-import MaryanImg from "../assets/people/maryan.jpg";
+const VitalikImg = new URL("../assets/people/vitalik.jpg", import.meta.url)
+  .href;
+
+const NazarImg = new URL("../assets/people/nazar.jpg", import.meta.url).href;
+const MaryanImg = new URL("../assets/people/maryan.jpg", import.meta.url).href;
 
 export const projects = [
   {
