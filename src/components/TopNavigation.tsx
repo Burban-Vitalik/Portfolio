@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import myLogo from "../../../myLogo.png";
+import myLogo from "../assets/myPhoto.png";
 
 const NAV_ITEMS = ["home", "service", "skills", "projects"];
 
